@@ -28,4 +28,4 @@ A command-line calculator built using Python that performs multiple mathematical
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/advanced-calculator.git
+git clone https://github.com/shiva-vashisht/advanced-calculator.git
